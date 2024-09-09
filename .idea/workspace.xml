@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fae4331-43cd-4751-884f-4e7d2cf53542" name="Changes" comment="Se elimino main" />
+    <list default="true" id="7fae4331-43cd-4751-884f-4e7d2cf53542" name="Changes" comment="se añadio Ejemplo3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MalosHabitos/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MalosHabitos/Ejemploo2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,14 +106,32 @@
       <option name="project" value="LOCAL" />
       <updated>1725924005478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="se añadio Ejemplo2">
+      <option name="closed" value="true" />
+      <created>1725924245231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924245231</updated>
+    </task>
+    <task id="LOCAL-00005" summary="se añadio Ejemplo3">
+      <option name="closed" value="true" />
+      <created>1725924259093</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924259093</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea base del proyecto" />
     <MESSAGE value="Refactorizacion Ejemplo01" />
     <MESSAGE value="Se elimino main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se elimino main" />
+    <MESSAGE value="se añadio Ejemplo2" />
+    <MESSAGE value="se añadio Ejemplo3" />
+    <option name="LAST_COMMIT_MESSAGE" value="se añadio Ejemplo3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
